@@ -3,7 +3,8 @@
 <!--
 **Samkit-shah/samkit-shah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://komarev.com/ghpvc/?username=samkit-shah&color=green
-![Samkit's github stats](https://github-readme-stats.vercel.app/api?username=samkit-shah&show_icons=true&theme=radical)
+[![Samkit's github stats](https://github-readme-stats.vercel.app/api?username=samkit-shah&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
