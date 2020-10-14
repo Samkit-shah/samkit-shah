@@ -1,8 +1,7 @@
-### Hi there 👋
-![](https://komarev.com/ghpvc/?username=samkit-shah&color=blue)
+### Hi there 👋 ![](https://komarev.com/ghpvc/?username=samkit-shah&color=blue)
 <br>
 ![Samkit's github stats](https://github-readme-stats.vercel.app/api?username=samkit-shah&show_icons=true&theme=graywhite)
-<br>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samkit-shah&layout=compact)
 
 <!--
