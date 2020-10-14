@@ -2,7 +2,8 @@
 ![](https://komarev.com/ghpvc/?username=samkit-shah&color=blue)
 <br>
 ![Samkit's github stats](https://github-readme-stats.vercel.app/api?username=samkit-shah&show_icons=true&theme=graywhite)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samkit-shah&layout=compact)]
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samkit-shah&layout=compact)
 
 <!--
 **Samkit-shah/samkit-shah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
